@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-description: How to volunteer with Data Chats
+description: how to volunteer with Data Chats
 background: assets/images/guy-tsror-fRlRMu0LLKI-unsplash.jpg
 permalink: /volunteer/
 ---
@@ -11,4 +11,4 @@ Suggest a topic on the [issue tracker](https://github.com/datachats/datachats.gi
 
 Invite your friends!
 
-Most importantly, volunteer to run a session! Please email jocelyn.pender@canada.ca to get involved.
+Most importantly, **volunteer to run a session**! Please email jocelyn.pender@canada.ca to get involved.
