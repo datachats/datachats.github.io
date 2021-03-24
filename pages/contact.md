@@ -16,4 +16,4 @@ Data Chats topic announcements go out on this mailing list each month.
 
 Contact me at jocelyn.pender@canada.ca.
 
-You'll need to be an employee.
+You'll need to be an employee of the centre.

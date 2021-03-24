@@ -4,6 +4,9 @@ title: Data Chats
 description: a lunch and learn series
 background: assets/images/guy-tsror-fRlRMu0LLKI-unsplash.jpg
 permalink: /
+imageLicense: |
+  Photo by [Guy Tsror](https://unsplash.com/@guyts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@guyts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
+height: 70vh
 ---
 {: .alert .alert-info}
 **We need your help to continue this series!** 
