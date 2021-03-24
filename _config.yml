@@ -1,4 +1,5 @@
 
+remote_theme: peterdesmet/petridish@1.1 
 # SITE SETTINGS
 title: Data Chats                        # Title in top navigation bar (navbar) and <head>
 description: Data Chats is a lunch and learn series focused on  # Site description in <head>
